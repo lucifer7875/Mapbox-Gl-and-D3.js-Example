@@ -1,5 +1,6 @@
 <h1>Mapbox-Gl-and-D3.js-Example</h1>
-    &nbsp;
+        <hr>
+        <div>
     <h6>Follow steps</h6>
     <ul>
       <li>Step 1 :- npm i</li>
@@ -11,3 +12,4 @@
       you have node 16 vesion if you are doing
       <span>npm i</span>
     </p>
+    </div>
