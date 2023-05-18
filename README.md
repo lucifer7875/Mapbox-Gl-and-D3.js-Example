@@ -6,8 +6,8 @@
       <li>Step 2 :- npm start</li>
     </ul>
 
-    <h4 style="color: blue;">Info</h4>
+    <h4>Info</h4>
     <p>
       you have node 16 vesion if you are doing
-      <span style="text-decoration: underline;">npm i</span>
+      <span>npm i</span>
     </p>
