@@ -1,7 +1,7 @@
 Data overlay example
 ---
 
-### JSON Data Link :- 
+### JSON(geo JSON) Data Link :- 
 https://raw.githubusercontent.com/lucifer7875/Mapbox-Gl-and-D3.js-Example/main/src/components/Data/oregon_county_pop.json
 
 ### Run it
